@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">App android</string>
+    <string name="text_home" translatable="false">Bienvenido</string>
+    <string name="textButton_home" translatable="false">Entrar</string>
+</resources>
